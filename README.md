@@ -9,7 +9,7 @@
 
 # 📸 Real-Time Object Detection — Android App
 
-A performant Android application that performs **real-time object detection** using the device camera. Built with **CameraX** for camera management and **TensorFlow Lite Task Vision API** for on-device ML inference using the **SSD MobileNet V1** model trained on the COCO dataset.
+A performant Android application that performs **real-time object detection** using the device camera. Built with **CameraX** for camera management and **TensorFlow Lite Task Vision API** for on-device ML inference using the **Efficientdet lite0** model trained on the COCO dataset.
 
 > **Detect 80+ object categories** — people, vehicles, animals, electronics, furniture, food, and more — entirely on-device with zero cloud dependency.
 
