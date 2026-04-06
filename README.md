@@ -379,7 +379,7 @@ SOFTWARE.
 
 **Amaan Ali**
 
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@AMAANALI70](https://github.com/AMAANALI70)
 
 ---
 
